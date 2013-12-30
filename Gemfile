@@ -13,6 +13,10 @@ gem 'paperclip'
  gem 'foundation-rails'
 
 
+group :development do
+  gem "debugger"
+end
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
@@ -41,4 +45,5 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
- ruby '2.0.0'
+ # ruby '2.0.0'
+gem 'rails_12factor'
