@@ -1,6 +1,8 @@
 development:
   adapter: postgresql
   encoding: utf8
-  database: ananthlab
+  database: ananthlabs
+  pool: 5
   username: postgres
   password: maheshwari
+
