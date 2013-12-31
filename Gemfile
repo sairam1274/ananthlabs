@@ -48,4 +48,4 @@ gem 'jquery-rails'
  # ruby '2.0.0'
 gem 'rails_12factor'
 
-ruby '2.0.0'
+
